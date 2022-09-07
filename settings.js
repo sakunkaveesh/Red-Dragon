@@ -31,8 +31,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+94760671767'] // owner number
 global.ownername = "༻꧁☬𝐒𝐀𝐊𝐔𝐍⃢🌹⃢𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬꧂༺̧̧̥" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.ytname = "" /https://youtu.be/rYLF6KNHE-c/ yt chanel name
+global.socialm = "https://chat.whatsapp.com/DAv7cHRzJBDIlzrrDd1yCo" // ☬Whats app gruop☬
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
